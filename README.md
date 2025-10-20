@@ -1,14 +1,32 @@
 # Reducing Customer Churn for Veridian Networks
 
+<p align="center">
+  <img src="Assets/Veridian_Networks_Analytics_Dashboard_1.png" alt="Overview Dashboard" width="48%"/>
+  <img src="Assets/Veridian_Networks_Analytics_Dashboard_2.png" alt="Customer Segments Dashboard" width="48%"/>
+</p>
+<p align="center">
+  <img src="Assets/Veridian_Networks_Analytics_Dashboard_3.png" alt="Overview Dashboard" width="48%"/>
+  <img src="Assets/Veridian_Networks_Analytics_Dashboard_4.png" alt="Customer Segments Dashboard" width="48%"/>
+</p>
+<p align="center">
+  <img src="Assets/Veridian_Networks_Analytics_Dashboard_5.png" alt="Veridian Networks Churn Dashboard Overview" width="600"/>
+</p>
 For subscription-based companies, small changes in customer churn can translate into massive revenue swings.  
-This Power BI project explores the drivers of churn at **Veridian Networks**, a fictional telecom provider offering internet, phone, and bundled services.
+This Power BI project explores the drivers of churn at Veridian Networks, a fictional telecom provider offering internet, phone, and bundled services.   
 
-The goal was simple: **understand why customers leave, identify who is at risk, and recommend how to keep them longer.**
+The goal was simple: **understand why customers leave, identify who is at risk, and recommend how to keep them longer.**   
+
+📊 Explore the interactive Power BI file below:
+<p align="center">
+  <a href="./Churn_Rate_Dashboard.pbix" download>
+    <img src="https://img.shields.io/badge/Download%20Dashboard-.pbix-blue?style=for-the-badge" alt="Download Power BI Dashboard">
+  </a>
+</p>   
 
 ---
 
-### 📊 Dataset
-This analysis is based on the **IBM Cognos Analytics’ [Telecommunications Industry Sample Data](https://accelerator.ca.analytics.ibm.com/bi/?perspective=authoring&pathRef=.public_folders%2FIBM%2BAccelerator%2BCatalog%2FContent%2FDAT00148&id=i9710CF25EF75468D95FFFC7D57D45204&objRef=i9710CF25EF75468D95FFFC7D57D45204&action=run&format=HTML)**, available through the **IBM Accelerator Catalog**.  
+### 📁 Dataset
+This analysis is based on the **IBM Cognos Analytics’ [Telecommunications Industry Sample Data](https://accelerator.ca.analytics.ibm.com/bi/?perspective=authoring&pathRef=.public_folders%2FIBM%2BAccelerator%2BCatalog%2FContent%2FDAT00148&id=i9710CF25EF75468D95FFFC7D57D45204&objRef=i9710CF25EF75468D95FFFC7D57D45204&action=run&format=HTML)**, available through the IBM Accelerator Catalog.  
 
 The dataset includes anonymized customer demographics, service details, and churn outcomes, and was designed by IBM to demonstrate telecom analytics and business intelligence use cases.
 
@@ -16,7 +34,7 @@ The dataset includes anonymized customer demographics, service details, and chur
 
 ## 🔧 Project Overview
 
-The analysis used a cross-section of over **7,000 customers**, combining service data, demographics, payment behavior, and engagement details.
+The analysis used a cross-section of over 7,000 customers, combining service data, demographics, payment behavior, and engagement details.
 
 All modeling and visualization were done in **Power BI**, including:
 - Power Query for cleaning and modeling  
