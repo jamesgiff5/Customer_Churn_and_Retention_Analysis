@@ -11,8 +11,8 @@
 <p align="center">
   <img src="Assets/Veridian_Networks_Analytics_Dashboard_5.png" alt="Veridian Networks Churn Dashboard Overview" width="600"/>
 </p>
-For subscription-based companies, small changes in customer churn can translate into massive revenue swings.  
-This Power BI project explores the drivers of churn at Veridian Networks, a fictional telecom provider offering internet, phone, and bundled services.   
+
+For subscription-based companies, small changes in customer churn can translate into massive revenue swings. This Power BI project explores the drivers of churn at Veridian Networks, a fictional telecom provider offering internet, phone, and bundled services.   
 
 The goal was simple: **understand why customers leave, identify who is at risk, and recommend how to keep them longer.**   
 
